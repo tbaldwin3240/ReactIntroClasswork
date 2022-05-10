@@ -1,3 +1,6 @@
+# We're finding a website and wireframing what might be a component. Also, what subcomponents might their be?
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
